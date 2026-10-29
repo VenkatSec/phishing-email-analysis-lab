@@ -1,0 +1,18 @@
+﻿From: "Account Support" <support@sender.example>
+Reply-To: account-check@reply.example
+Subject: Urgent action - verify your account
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Hello,
+
+Urgent action is required. Please verify your account
+and confirm your identity immediately.
+
+Review the message here:
+http://192.0.2.10/account-check
+
+If you did not request this, contact your administrator.
+
+This is a synthetic training message for a defensive
+email-analysis lab. Do not send it to anyone.
